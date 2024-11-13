@@ -3,9 +3,9 @@ kind: ConsoleLink
 metadata:
   name: github-jump-start
 spec:
-  href: 'https://github.com/adrezni/cluster-jump-start'
+  href: https://github.com/codekow/just-in-time-cluster
   location: ApplicationMenu
-  text: GitHub - Cluster Jump Start
+  text: GitHub - Cluster - Justin Timberlake
   applicationMenu:
     section: Git Repos
     imageURL: /static/assets/public/imgs/logos/github.svg
