@@ -1,6 +1,6 @@
-# just-in-time-cluster
+# Build a Cluster Just in Time
 
-I'm building a demo that uses RHOAI and other components related to AI
+Example of how to build a demo that uses RHOAI and other components related to AI
 
 ## Quickstart
 
